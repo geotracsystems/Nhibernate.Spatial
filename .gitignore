@@ -1,5 +1,6 @@
 # Ignore file for Visual Studio 2010/2012
 
+packages
 *.obj
 *.exe
 *.pdb
