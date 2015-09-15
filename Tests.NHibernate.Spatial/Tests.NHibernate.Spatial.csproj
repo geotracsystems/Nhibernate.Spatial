@@ -61,7 +61,7 @@
     <Reference Include="NetTopologySuite">
       <HintPath>..\packages\NetTopologySuite.1.13.3.2\lib\net40-client\NetTopologySuite.dll</HintPath>
     </Reference>
-    <Reference Include="NetTopologySuite.TestRunner, Version=1.12.1.16958, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="NetTopologySuite.TestRunner, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\lib\NTS\NetTopologySuite.TestRunner.dll</HintPath>
     </Reference>
