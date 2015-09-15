@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NHibernate.Spatial.PostGis")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("NHibernate.Spatial extensions for PostGis databases.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("NHibernate Contrib")]
 [assembly: AssemblyProduct("NHibernate.Spatial")]
 [assembly: AssemblyCopyright("Copyright ©  2008 Ricardo Stuven")]
 [assembly: AssemblyTrademark("")]

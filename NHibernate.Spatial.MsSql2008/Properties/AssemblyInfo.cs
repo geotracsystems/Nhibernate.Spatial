@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NHibernate.Spatial.MsSql2008")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("NHibernate spatial extensions for Microsoft SQL Server 2008.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("NHibernate Contrib")]
 [assembly: AssemblyProduct("NHibernate.Spatial")]
 [assembly: AssemblyCopyright("Copyright ©  2008 Ricardo Stuven")]
 [assembly: AssemblyTrademark("")]
