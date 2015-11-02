@@ -6,6 +6,6 @@
     <title>$id$</title>
     <authors>$author$</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>$description$</description>    
   </metadata>
 </package>
